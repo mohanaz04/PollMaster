@@ -13,9 +13,3 @@ Admin session control (start/close/reset)
 LCD instructions + RGB/Buzzer feedback
 
 Automatic results + tie/winner detection
-
-Wiring
-
-RC522: SS=D10, SCK=D13, MOSI=D11, MISO=D12, RST=D9, VCC=3.3V, GND=GND
-
-LCD I2C: SDA=A4, SCL=A5
